@@ -1,4 +1,1 @@
-# Programacion-Basica-302-I
-## Mariela Iveth De La Cruz Jimenez
-## 25/noviembre/2009
-## Portafolio de códigos de c++
+<img width="759" height="475" alt="image" src="https://github.com/user-attachments/assets/17d5ba8f-af5e-484f-ad66-2ef9eea83955" />
